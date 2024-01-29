@@ -1,0 +1,66 @@
+Which of the following is a programming language?
+HTTP
+HTML
+HPML
+FTP
+B
+Which of the following is not a database management software?
+MySQL
+Oracle
+Sybase
+COBOL
+D
+In computer world, Trojan refer to
+Virus
+Malware
+Worm
+Spyware
+B
+Which of the following is the first computer worm?
+Melissa
+MSBlast 
+Code Red
+Morris Worm
+D
+When was the IBM 5100 introduced? 
+December of 1991
+August of 1967
+April of 1981
+September of 1975
+D
+What does the letter "S" stand for in the Web terminology "HTTPS"
+Safe
+Secure
+Short
+Shorter
+B
+Oracle is a
+Operating System
+RDBMS
+Interpreter
+Compiler
+B
+Which of the following is the first high level programming language 
+C
+COBOL
+FORTRAN
+C++
+B
+Which one is the input device?
+Keyboard
+LED monitor
+Speaker
+Printer
+A
+Which of the following is the component test standard?
+BS7925-2
+IEEE 829
+BS7925-1
+IEEE 610
+A
+this is a testing question
+a
+b
+c
+d
+A
